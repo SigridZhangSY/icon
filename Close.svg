@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Icon/Close</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,10.9333333 L18.9333333,4 L20,5.06666667 L13.0666667,12 L20,18.9333333 L18.9333333,20 L12,13.0666667 L5.06666667,20 L4,18.9333333 L10.9333333,12 L4,5.06666667 L5.06666667,4 L12,10.9333333 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon/Close" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#D8D8D8" xlink:href="#path-1"></use>
+        <g id="Mixin/Fill/Black" mask="url(#mask-2)" fill="#354052">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>
